@@ -8,6 +8,5 @@ final agent:Agent _mathTutorAgent = check new (
 @agent:Tool
 @display {label: "", iconPath: ""}
 isolated function getMult(decimal a, decimal b) returns decimal {
-    decimal result = mult(a, b);
-    return result;
+    return mult(a, b);
 }
