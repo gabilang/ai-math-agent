@@ -1,4 +1,7 @@
 [package]
-org = "fitnessbeasts"
-name = "ai_math_agent"
+org = "gabilan"
+name = "test"
 version = "0.1.0"
+
+[build-options]
+sticky = true
