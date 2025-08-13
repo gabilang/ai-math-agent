@@ -9,11 +9,3 @@
 #
 # Note: This file is automatically added to .gitignore to protect sensitive information. 
 
-serviceUrl = ""	# Type of STRING
-
-deploymentId = ""	# Type of STRING
-
-apiVersion = ""	# Type of STRING
-
-apiKey = ""	# Type of STRING
-
